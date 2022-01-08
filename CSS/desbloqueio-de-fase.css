@@ -1,17 +1,21 @@
 @import url('https://fonts.googleapis.com/css2? família = Blinker: wght @ 300 &family = Poppins: wght @ 300 & family = Fonte + Sans + Pro: wght @ 700 & display = swap');
 
-@import url('https://fonts.googleapis.com/css2? family = Open + Sans: wght @ 700 & display = swap');
+@import url('https://fonts.googleapis.com/css2? family = Abrir + Sans: wght @ 700 & display = swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 
+*{
+    margin: 0px;
+    padding: 0px; 
+}
 
-main{
+.main{
     background-image: url(../img/fundo-dois.jpg);
     background-size: 100% 100%;
     padding: 20px 20px;
 }
 
-main h1{
+.main h1{
     font-family: 'Dancing Script', cursiva;
     font-weight: bold;
     font-size: 100px;
@@ -20,9 +24,32 @@ main h1{
     border-top: 50px;
 }
 
+.pergaminho{
+    background-image: url(https://i.pinimg.com/originals/7f/ff/c6/7fffc6c0abda52427abb6ddb2b24d4bb.png);
+    background-size: cover;
+    width: 700px;
+    height: 635px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.texto{
+    width: 480px;
+    height: 310px;
+    margin: auto;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 19px;
+    font-style: italic;
+    text-align: center;
+}
+
 .capas{
     width: 100%;
-    height: 500px;
+    height: 400px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -30,36 +57,32 @@ main h1{
     margin-top: 20px;
 }
 
-.personagem{
-    border: 2px solid  green;
-    border-radius: 15px;
-    width: 210px;
-    height: 280px;
+.fase{
+    border: 2px dashed  green;
     padding: 10px;
-    font-family: 'Open Sans', sans-serif;
-    text-align: center;
 }
 
 img {
     width: 200px;
-    height: 150px;
+    height: 250px;
     border-radius: 10px;
 }
 
-legend{
-    margin: 10px 0 10px 0;
-    font-weight: bold;
-    font-size: 18px;
-    text-align: center;
+.fase p{
     color: green;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
-
-.personagem p{
-    font-weight: bold;
-    font-size: 15px;
+legend{
+    font-size: 20px;
     text-align: center;
-    color: rgb(138, 3, 3);
+    z-index: 10;
+    margin-bottom: -20px;
+    position: relative;
 }
 
 footer{
@@ -78,6 +101,8 @@ footer p{
     font-family: 'Poppins', sans-serif;
 }
 
+
+
 @media (max-width: 700px){
 
     body{
@@ -85,52 +110,62 @@ footer p{
         margin: 0px;
     }
 
-    main{
-        padding: 0 0 30px 0;
+    .main{
+        padding: 0;
         width: 700px;
-        height: 1500px;
-        background-size: cover;
+        background-size: 100% 100%;
     }
 
     h1{
         font-size: 14px;
     }
 
-    .capas{
-        width: 100%;
-        height: 950px;
-        flex-direction: column;
-        justify-content: center;
-        margin-top: 100px;
+    .pergaminho{
+        background-image: none;
     }
 
-    .personagem{
+    .texto{
+        width: 250px;
+        height: 500px;
+        margin: auto;
+        text-align: center;
+        color: rgb(138, 3, 3)
+    }
+
+    p{
+        font-size: 12px;
+        text-align: center;
+        color: rgb(138, 3, 3);
+    }
+
+    .capas{
+        width: 100%;
+        height: 750px;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: -50px;
+    }
+
+    .fase{
         margin-top: 30px;
         border: 2px dashed  green;
-        width: 210px;
-        height: 300px;
         padding: 5px;
         text-align: center;
     }
 
     img{
-        width: 150px;
-        height: 120px;
+        width: 80px;
+        height: 100px;
         margin-bottom: 5px;
     }
 
     legend{
-        font-size: 18px;
-    }
-
-    p{
         font-size: 15px;
+        margin-bottom: -15px;
     }
 
     footer{
         width: 700px;
     }
-
-
 
 }
