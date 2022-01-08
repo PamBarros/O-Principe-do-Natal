@@ -70,3 +70,38 @@ footer p{
     text-align: center;
     font-family: 'Poppins', sans-serif;
 }
+
+
+@media (max-width: 700px){
+
+    body{
+        width: 100%;
+        margin: 0px;
+    }
+
+    main{
+        padding: 0 0 30px 0;
+        width: 700px;
+        height: 1400px;
+        background-size: cover;
+    }
+
+
+    .mensagem{
+        height: 900px;
+    }
+
+    .botao{
+        width: 700px;
+        height: 50px;
+    }
+
+    button{
+        width: 120px;
+        height: 40px;
+    }
+
+    footer{
+        width: 700px;
+    }
+}
