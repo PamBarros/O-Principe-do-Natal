@@ -1,11 +1,6 @@
 @import url('https://fonts.googleapis.com/css2? família = Blinker: wght @ 300 &family = Poppins: wght @ 300 & family = Fonte + Sans + Pro: wght @ 700 & display = swap');
 
 
-*{
-    margin: 0px;
-    padding: 0px;
-}
-
 main{
     background-image: url(../img/fundo-dois.jpg);
     background-size: 100%;

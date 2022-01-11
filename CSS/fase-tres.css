@@ -2,12 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2? família = Blinker: wght @ 300 &family = Poppins: wght @ 300 & family = Fonte + Sans + Pro: wght @ 700 & display = swap');
 
-*{
-    padding: 0;
-    margin: 0;
-}
-
-
 
 main{
     background-image: linear-gradient(to left, transparent 0%, #2b2a2a 85%), url(../img/terceirafase.jpg);
@@ -99,6 +93,9 @@ footer p{
         font-weight: normal;
         height: 750px;
         color: white;
+        justify-content: center;
+        display: flex;
+        align-items: center;
     }
 
     button{
