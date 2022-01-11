@@ -46,6 +46,10 @@ img {
     border-radius: 10px;
 }
 
+.personagem img:hover{
+    transform: scale(1.1)
+}
+
 legend{
     margin: 10px 0 10px 0;
     font-weight: bold;
