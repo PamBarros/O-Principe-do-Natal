@@ -1,57 +1,88 @@
-Esquema
+----------------------
+//1ª - Fase
 
-- O projeto será sobre o filme: Um príncipe do natal.
+//Emily
 
-- Página inicial com o título e descrição do jogo. 
-
-- Colocar as três fases do jogo, sendo uma desbloqueada de início, e as outras somente desbloquear a medida que o jogo for avançando.
- 
-- A missão da fase número 1 é juntar o príncipe e a Amber a ficarem juntos.
-
-- A missão da fase número 2 é ajudar o príncipe e a Amber a casarem.
-
-- A missão da fase número 3 é ajudar o príncipe e a Amber a terem o bebê. 
+Uma jovem jornalista é encarregada de cobrir uma pauta sobre a monarquia de Aldovia durante o Natal. Ao ser enviada para cobrir a história do Príncipe Richard que está prestes a se tornar rei, mas é afamado por ser um playboy irresponsável. Embora, muitos não sabem da verdade, que ele é um homem admirável e com coração gigante. Amber se disfarça de babá da Princesa Emily, que sofre de espinha bífida. Porém, é facilmente desmacarada pela Princesa. O que Emily deve fazer?
+<br></br>
+A) Expor a verdade e mandar Amber embora.
+<br></br>
+B) Pedir que a jornalista publique a verdade sobre seu irmão. Assim, aumentando a admiração do príncipe por Amber.
 
 
-Texto 1
+//Simon
 
-O jogo é baseado no filme "O Príncipe do Natal", original da Netflix. Você deve escolher o personagem que irá ajudar o Príncipe Richard e a Amber completarem as fases da vida. 
+A jovem jornalista, Amber, se disfarça de babá para fazer uma matéria sobre o futuro rei de Aldovia. Após a morte de seu pai, o Príncipe Richard terá que assumir o trono. Os dois se apaixonam perdidamente. Porém, seu primo, o Conde Simon, que deseja assumir o trono de Aldovia, descobre que Ricard foi adotado secretamente e a verdadeira identidade de Amber. O que Simon deve fazer?
 
-Na primeira fase, uma jovem jornalista é encarregada de cobrir uma pauta sobre a monarquia de Aldovia durante o Natal. Ao ser enviada para cobrir a história de um príncipe prestes a se tornar rei, ela nem imagina que receberá o maior presente natalino de sua vida. Você deve ajudar Amber e Príncipe Richard a ficarem juntos.
+<br></br>
+A) Expor a verdade sobre o Príncipe Richard, mandar Amber embora e assumir o trono.
+<br></br>
+B) Ajudar averiguando se há algo que comprove a legitimidade de Richard como herdeiro, e guardar o segredo e Amber.
 
-Na segunda fase, um ano depois de Amber ajudar o Príncipe Richard a protejer a coroa, os dois estão prestes a se casar em pleno Natal. Mas os planos do jovem casal são ameaçados por uma crise política que pode prejudicar o futuro do reino e pela insegurança de Amber em se tornar rainha. Então, você deverá ajudar o Príncipe e Amber a realizarem o casamento.
 
-Na terceira fase, Aldovia está em clima de Natal enquanto a Rainha Amber e o Rei Richard se preparam para tirar um tempo para si e cuidar do seu primeiro filho, que está para nascer. Porém, primeiro eles precisam renovar um sagrado tratado de paz com o reino da Penglia. Quando uma tempestade de neve atinge o castelo na véspera de Natal e o tratado desaparece, o casal real precisa encontrar o ladrão para garantir a segurança de sua família e seus súditos. Mediante a isso, você deverá ajudá-los a encontrar o tratado e a descobrirem quem foi o ladão, para que Amber e Richard tenham seu bebê com tranquilidade.
+// Melissa
+
+Uma jovem jornalista é encarregada de cobrir uma pauta sobre a monarquia de Aldovia durante o Natal. Ao ser enviada para cobrir a história do Príncipe Richard que está prestes a se tornar rei, mas é afamado por ser um playboy irresponsável. Embora, muitos não saibam da verdade, que ele é um homem admirável e com coração gigante. Amber descobre que o Príncipe é filho adotivo, e pede conselho a Melissa, sua melhor amiga, sobre o que fazer com essa novidade. O que Melissa deve fazer?
+<br></br>
+A) Aconselhar Amber a publicar essa novidade.
+<br></br>
+B) Aconselhar Amber a guardar esse segrede e a investigar se existe alguma forma de declarar a legitimidade do Príncipe, para ajudá-lo.
+
+-----------------------
+//2ª - Fase
+
+//Emily
+
+Um ano depois de Amber ajudar o Príncipe Richard a protejer a coroa, os dois estão prestes a se casar em pleno Natal. Mas os planos do jovem casal são ameaçados pela insegurança de Amber em se tornar rainha. Ela não pode escolher o vestido e nem os detalhes da festa, por causa dos protocolos, e está muito triste por isso. A Princesa Emily percebe que Amber está abrindo mão da sua vida pessoal e profissional, e não está feliz. O que Emily deve fazer? 
+<br></br>
+A) Ajudar a futura rainha a enfrentar seus dilemas, mostrando a ela todas as maravilhas de fazer parte da realeza. E a não desistir do casamento com seu irmão, Richard. 
+<br></br>
+B) Enfatizar que Amber não pertence a realeza.
 
 
+//Simon
+
+Um ano depois de Amber ajudar o Príncipe Richard a protejer a coroa, os dois estão prestes a se casar em pleno Natal. Mas os planos do jovem casal são ameaçados por uma crise política que pode prejudicar o futuro do reino. Mediante a isso, o Príncipe Richard vai até algumas cidades próximas em busca de investimentos para o seu reino. Somente assim ele e Amber poderão casar em paz. O que o Conde Simon deve fazer?
+<br></br>
+A) Ajudar o príncipe Richard a buscar investidores para o reino, visto que estão no meio de uma crise e seus recursos econômicos estão se esgotando. 
+<br></br>
+B) Boicoitar os contratos de pedido de investimento na cidade. 
+
+
+// Melissa
+
+
+Um ano depois de Amber ajudar o Príncipe Richard a protejer a coroa, os dois estão prestes a se casar em pleno Natal. Mas os planos do jovem casal são ameaçados por uma crise política que pode prejudicar o futuro do reino e pela insegurança de Amber em se tornar rainha. Ela não está acostumada com o tradicionalismo e protocolos de imagem da família real. Então, decide consultar sua melhor amiga, Melissa. O que Melissa deve fazer?
+<br></br>
+A) Aconselhar a amiga a tentar se adaptar aos costumes reais, a ajudar seu reino a se erguer economicamente e a não desistir do casamento.
+<br></br>
+B) Aconselhar a amiga a largar tudo e voltar para sua antiga vida.
+
+-----------------------
+//3ª - Fase
+
+//Emily
+
+Aldovia está em clima de Natal enquanto a Rainha Amber e o Rei Richard se preparam para tirar um tempo para si e cuidar do seu primeiro filho, que está para nascer. Porém, primeiro eles precisam renovar um sagrado tratado de paz com o reino da Penglia. Quando uma tempestade de neve atinge o castelo na véspera de Natal e o tratado desaparece, o casal real precisa encontrar o ladrão para garantir a segurança de sua família e seus súditos. O que Emily deve fazer?
+<br></br>
+A) Ajudar o casal a encontrar o tratado, e a revelar quem é o ladrão. 
+<br></br>
+B) Ignorar a situação e ir brincar na neve.
+
+//Simon
+
+Aldovia está em clima de Natal enquanto a Rainha Amber e o Rei Richard se preparam para tirar um tempo para si e cuidar do seu primeiro filho, que está para nascer. Porém, primeiro eles precisam renovar um sagrado tratado de paz com o reino da Penglia. Quando uma tempestade de neve atinge o castelo na véspera de Natal, o casal real precisa garantir a segurança de sua família e seus súditos. O que Simon deve fazer?
+<br></br>
+A) Esconder o tratado para que o Rei Richard se prejudique com o reino vizinho.
+<br></br>
+B) Auxiliar o Rei Richard a captar investimentos para o reino.
+
+// Melissa
+
+Aldovia está em clima de Natal enquanto a Rainha Amber e o Rei Richard se preparam para tirar um tempo para si e cuidar do seu primeiro filho, que está para nascer. Porém, primeiro eles precisam renovar um sagrado tratado de paz com o reino da Penglia. Quando uma tempestade de neve atinge o castelo na véspera de Natal e o tratado desaparece, e Melissa ouve uma conversa de quem o roubou. O que Melissa deve fazer?
+<br></br>
+A) Desmarcarar as pessoas envolvidas no sumiço do tratado, para que Amber e Richard tenham o bebê em segurança.
+<br></br>
+B) Fica quieta, não entrega o ladrão, e sai do palácio.
 
 ----------
-
-
-<p>   O jogo é uma adaptação do filme "O Príncipe do Natal", original da Netflix. Você deve escolher o personagem que irá ajudar o Príncipe Richard e Amber a completarem as fases da vida.</p>
-                <br></br> 
-                <p>Na primeira fase - A Christmas Prince, ajude Amber e Príncipe Richard a ficarem juntos.</p>
-                <br></br> 
-                <p>Na segunda fase - A Christmas Prince: The Royal Wedding, realize o casamento do Príncipe e Amber.</p>    
-                <br></br> 
-                <p>Na terceira fase - A Christmas Prince: The Royal Baby, Amber e Richard precisam desvendar o mistério para terem o bebê com tranquilidade.</p>
-                <br></br>      
-                <p>Primeira fase liberada, conclua essa fase para desbloquear a próxima!</p>
-            
-
-------------
-
-
-img:hover{
-    width: 210px;
-    height: 260px;
-}
-
-
-você o ajude a conquistar a Amber, casar com ela, a terem um lindo bebê e a salvarem o nosso reino. 
-
-
-
-Convocamos você para nos ajudar em uma difícil missão. Após a morte de seu pai, o Príncipe Richard terá que assumir o trono. Porém, o mundo inteiro aposta que o Príncipe não é capaz de governar nosso povo com excelência. Nessa primeira fase, precisamos que através dos personagens, você o ajude a conquistar a Amber.
-
-

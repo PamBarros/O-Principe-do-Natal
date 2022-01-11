@@ -1,7 +1,7 @@
 //Fase 1 - Emily
 
 function  fa ( )  {
-    var  escolha  =  prompt ("O que Emily deve fazer ? \n A) \n B)").toLocaleUpperCase();
+    var  escolha  =  prompt ("O que Emily deve fazer ? \n Digite A ou B").toLocaleUpperCase();
 
     if ( escolha  ==  "A" ) {
         location.assign("../HTML/gameover.html")
@@ -16,7 +16,7 @@ function  fa ( )  {
 //Fase 2 - Emily
 
 function  fb ( )  {
-    var  escolha  =  prompt ("O que Emily deve fazer ? \n A) \n B)").toLocaleUpperCase();
+    var  escolha  =  prompt ("O que Emily deve fazer ? \n Digite A ou B").toLocaleUpperCase();
 
     if ( escolha  ==  "A" ) {
         location.assign("../HTML/desbloqueio-da-fase-tres-emily.html")
@@ -31,7 +31,7 @@ function  fb ( )  {
 //Fase 3 - Emily
 
 function  fc ( )  {
-    var  escolha  =  prompt ("O que Emily deve fazer ? \n A) \n B)").toLocaleUpperCase();
+    var  escolha  =  prompt ("O que Emily deve fazer ? \n Digite A ou B").toLocaleUpperCase();
 
     if ( escolha  ==  "A" ) {
         location.assign("../HTML/venceu.html")
@@ -47,7 +47,7 @@ function  fc ( )  {
 //Fase 1 - Simon
 
 function  fd ( )  {
-    var  escolha  =  prompt ("O que Emily deve fazer ? \n A) \n B)").toLocaleUpperCase();
+    var  escolha  =  prompt ("O que Simon deve fazer ? \n Digite A ou B").toLocaleUpperCase();
 
     if ( escolha  ==  "A" ) {
         location.assign("../HTML/desbloqueio-da-fase-dois-simon.html")
@@ -64,7 +64,7 @@ function  fd ( )  {
 //Fase 2 - Simon
 
 function  fe ( )  {
-    var  escolha  =  prompt ("O que Emily deve fazer ? \n A) \n B)").toLocaleUpperCase();
+    var  escolha  =  prompt ("O que Simon deve fazer ? \n Digite A ou B").toLocaleUpperCase();
 
     if ( escolha  ==  "A" ) {
         location.assign("../HTML/desbloqueio-da-fase-tres-simon.html")
@@ -80,7 +80,7 @@ function  fe ( )  {
 //Fase 3 - Simon
 
 function  ff ( )  {
-    var  escolha  =  prompt ("O que Emily deve fazer ? \n A) \n B)").toLocaleUpperCase();
+    var  escolha  =  prompt ("O que Simon deve fazer ? \n Digite A ou B").toLocaleUpperCase();
 
     if ( escolha  ==  "A" ) {
         location.assign("../HTML/gameover.html")
@@ -97,7 +97,7 @@ function  ff ( )  {
 
 
 function  fg ( )  {
-    var  escolha  =  prompt ("O que Emily deve fazer ? \n A) \n B)").toLocaleUpperCase();
+    var  escolha  =  prompt ("O que Melissa deve fazer ? \n Digite A ou B").toLocaleUpperCase();
 
     if ( escolha  ==  "A" ) {
         location.assign("../HTML/gameover.html")
@@ -113,7 +113,7 @@ function  fg ( )  {
 //Fase 2 - Melissa
 
 function  fh ( )  {
-    var  escolha  =  prompt ("O que Emily deve fazer ? \n A) \n B)").toLocaleUpperCase();
+    var  escolha  =  prompt ("O que Melissa deve fazer ? \n Digite A ou B").toLocaleUpperCase();
 
     if ( escolha  ==  "A" ) {
         location.assign("../HTML/desbloqueio-da-fase-tres-melissa.html")
@@ -131,7 +131,7 @@ function  fh ( )  {
 
 
 function  fi ( )  {
-    var  escolha  =  prompt ("O que Emily deve fazer ? \n A) \n B)").toLocaleUpperCase();
+    var  escolha  =  prompt ("O que Melissa deve fazer ? \n Digite A ou B").toLocaleUpperCase();
 
     if ( escolha  ==  "A" ) {
         location.assign("../HTML/gameover.html")
