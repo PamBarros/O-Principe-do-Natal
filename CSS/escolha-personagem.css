@@ -64,6 +64,7 @@ legend{
     font-size: 15px;
     text-align: center;
     color: rgb(138, 3, 3);
+    line-height: normal;
 }
 
 footer{
