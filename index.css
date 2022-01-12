@@ -4,27 +4,52 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 
-
-.main{
-    background-image: url(./img/fundo-dois.jpg);
-    background-size: 100% 100%;
-    padding: 20px 20px;
+html{
+    width: 100%;
+    height: 100%;
+    position: absolute;
 }
 
-.main h1{
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.container{
+    background-image: url(./img/fundo-dois.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 20px 0 0 0;
+    width: 100%;
+    height: 1400px;
+}
+
+.titulo{
     font-family: 'Dancing Script', cursiva;
     font-weight: bold;
     font-size: 100px;
     color: green;
     text-align: center;
     border-top: 50px;
+    width: 100%;
 }
+
+main{
+    width: 100%;
+    height: 1200px;
+    margin: auto;
+}
+
 
 .pergaminho{
     background-image: url(./img/pergaminho.png);
-    background-size: cover;
+    background-size: 100% 100%;
     width: 700px;
-    height: 635px;
+    height: 800px;
     margin: auto;
     display: flex;
     justify-content: center;
@@ -33,12 +58,12 @@
 }
 
 .texto{
-    width: 480px;
+    width: 350px;
     height: 310px;
     margin: auto;
     color: white;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 19px;
+    font-size: 20px;
     font-style: italic;
     text-align: center;
 }
@@ -83,17 +108,21 @@ legend{
 
 footer{
     width: 100%;
-    height: 40px;
+    left: 0px;
+    bottom: 0px;
+    text-align: center;
+    background: url(./img/fundo-dois.jpg);
     background-color: #808080;
 }
 
 footer p{
-    padding: 15px 0 0 0;
+    padding: 15px 0 15px 0;
     font-size: 14px;
     font-weight: bold;
     background-color: #808080;
     color: black;
     text-align: center;
+    align-items: center;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -106,7 +135,7 @@ footer p{
         margin: 0px;
     }
 
-    .main{
+    main{
         padding: 0;
         width: 700px;
         background-size: 100% 100%;
