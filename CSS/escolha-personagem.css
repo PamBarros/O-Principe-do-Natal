@@ -146,6 +146,10 @@ footer p{
         text-align: center;
     }
 
+    .personagem p {
+        color: rgb(138, 3, 3);
+    }
+
     img{
         width: 150px;
         height: 120px;
