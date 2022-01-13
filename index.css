@@ -23,6 +23,11 @@ body{
     padding-bottom: 10vh;
 }
 
+header{
+    width: 100vw;
+    height: 20vh;
+}
+
 .titulo{
     font-family: 'Dancing Script', cursiva;
     font-weight: bold;
@@ -174,13 +179,12 @@ footer p{
         height: 500px;
         margin: auto;
         text-align: center;
-        color: white;
     }
 
-    p{
+    .texto p{
         font-size: 2vh;
         text-align: center;
-        color: rgb(138, 3, 3);
+        color: white;
     }
 
     .capas{

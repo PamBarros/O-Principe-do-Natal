@@ -5,26 +5,51 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 
 
-.main{
-    background-image: url(../img/fundo-dois.jpg);
-    background-size: 100% 100%;
-    padding: 20px 20px;
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0vh;
+    justify-content: center;
+    align-items: center;
+
 }
 
-.main h1{
+.container{
+    background-image: url(../img/fundo-dois.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    padding-bottom: 10vh;
+}
+
+header{
+    width: 100vw;
+    height: 20vh;
+}
+
+.titulo{
     font-family: 'Dancing Script', cursiva;
     font-weight: bold;
-    font-size: 100px;
+    font-size: 10vh;
     color: green;
     text-align: center;
-    border-top: 50px;
+    padding-top: 5vh;
+    width: 100vw;
 }
+
+main{
+    width: 100vw;
+    height: 85vh;
+    margin: auto;
+}
+
 
 .pergaminho{
     background-image: url(../img/pergaminho.png);
-    background-size: cover;
-    width: 700px;
-    height: 635px;
+    background-size: 100% 100%;
+    width: 60vw;
+    height: 50vh;
     margin: auto;
     display: flex;
     justify-content: center;
@@ -33,20 +58,24 @@
 }
 
 .texto{
-    width: 480px;
-    height: 310px;
+    width: 30vw;
+    height: 40vh;
     margin: auto;
     color: white;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 24px;
-    text-align: center;
+    font-size: 2.5vh;
     line-height: normal;
+    font-style: italic;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .botao{
-    width: 100%;
-    height: 200px;
-    margin: 0;
+    width: 100vw;
+    height: 40vh;
+    margin: 0vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -54,31 +83,41 @@
 
 
 button{
-    width: 120px;
-    height: 40px;
+    width: 20vw;
+    height: 5vh;
     align-items: center;
     background-color: rgb(143, 7, 7);
 }
 
+button:hover{
+    background-color: darkorange;
+}
+
 .botao a {
     color: white;
+    font-size: 2vh;
     text-decoration: none;
 }
 
 
 footer{
-    width: 100%;
-    height: 40px;
+    width: 100vw;
+    height: 5vh;
+    bottom: 0vh;
+    text-align: center;
     background-color: #808080;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 footer p{
-    padding: 15px 0 0 0;
-    font-size: 14px;
+    font-size: 2vh;
     font-weight: bold;
     background-color: #808080;
     color: black;
     text-align: center;
+    align-items: center;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -88,38 +127,64 @@ footer p{
 @media (max-width: 700px){
 
     body{
-        width: 100%;
+        width: 700px;
+        height: 1500px;
         margin: 0px;
     }
 
-    .main{
-        padding: 0 0 30px 0;
+    .container{
         width: 700px;
         height: 1500px;
-        background-size: cover;
+        background-size: 100% 100%;
+        padding-bottom: 0px;
+    }
+
+    header{
+        width: 700px;
+        height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     h1{
         font-size: 14px;
+        text-align: center;
     }
 
+    main{
+        padding-top: 80px;;
+        width: 700px;
+        height: 900px;
+    }
+
+
     .pergaminho{
-        background-image: none;
-        height: 700px;
+        background-size: 100% 100%;
+        width: 600px;
+        height: 550px;
     }
 
     .texto{
-        width: 700px;
-        color: rgb(138, 3, 3)
+        width: 250px;
+        height: 500px;
+        margin: auto;
+        text-align: center;
+        font-size: 18px;
+    }
+
+    p{
+        text-align: center;
+        color: white;
     }
 
     .botao{
         width: 700px;
-        height: 50px;
+        height: 500px;
     }
 
     button{
-        width: 120px;
+        width: 150px;
         height: 40px;
     }
 
