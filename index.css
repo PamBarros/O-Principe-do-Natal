@@ -209,6 +209,7 @@ footer p{
         width: 120px;
         height: 140px;
         margin-bottom: 5px;
+        cursor: pointer;
     }
 
     legend{

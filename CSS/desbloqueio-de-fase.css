@@ -91,6 +91,7 @@ img {
     width: 23vh;
     height: 20vh;
     border-radius: 2vh;
+    cursor: pointer;
 }
 
 .fase p{
